@@ -14,3 +14,6 @@ saludo << "Buenos "
 saludo << "días "
 saludo << "a todos"
 puts saludo
+
+#Repetir N veces(en este ejemplo 5) un string
+puts "Hola " * 5
